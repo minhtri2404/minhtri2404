@@ -11,9 +11,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhtri2404&show_icons=true&theme=radical)
-
+## 📈 GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 ---
 
 ## 🔧 Technologies & Tools
@@ -37,11 +39,7 @@
 - Contributing to open-source projects.
 - Expanding my knowledge in **Web Development** and **UI/UX Design**.
 
----
 
-## 📈 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+
+
 
