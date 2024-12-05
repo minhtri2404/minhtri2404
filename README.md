@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Loading Animation](https://raw.githubusercontent.com/huutai2312/huutai2312/master/intro-git.gif))
+![Loading Animation](https://raw.githubusercontent.com/huutai2312/huutai2312/master/intro-git.gif)
 
 ---
 
