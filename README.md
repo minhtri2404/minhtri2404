@@ -12,15 +12,16 @@
 ---
 
 ## 📈 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4" />
-</div>
-
-
-
-
-
+<table align="center">
+    <tr>
+        <td>
+            <img height="195px" src="https://github-readme-stats.vercel.app/api?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+        </td>
+        <td>
+            <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4" />
+        </td>
+    </tr>
+</table>
 
 ---
 
