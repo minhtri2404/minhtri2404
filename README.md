@@ -20,5 +20,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-channel)
 
-![Loading Animation](https://github.com/minhtri2404/my-github-profilee/blob/main/intro-git.gif?raw=true)
 
