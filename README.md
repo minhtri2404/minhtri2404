@@ -14,8 +14,9 @@
 ## 📈 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4&card_width=300&exclude_repo=repo-to-exclude&hide=html,css,javascript,vue" />
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtri2404&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=4&exclude_repo=repo-to-exclude" />
 </div>
+
 
 
 ---
