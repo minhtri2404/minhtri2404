@@ -1,9 +1,5 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Loading Animation](https://raw.githubusercontent.com/huutai2312/huutai2312/master/intro-git.gif)
-
----
-
 ## 🚀 About Me
 - 🔭 I’m currently working on **Awesome Projects**.
 - 🌱 Learning **Vue.js, JavaScript, CSS**.
@@ -32,6 +28,8 @@
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
