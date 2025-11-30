@@ -1,11 +1,9 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="./intro-git.gif" width="900" />
-</p>
-
 <h1 align="center">Hi 👋, I'm M_Trí</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
+<p align="center">
+  <img src="./intro-git.gif" width="900" />
+</p>
 ---
 
 ## 🚀 About Me
