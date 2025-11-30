@@ -24,12 +24,12 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,C,C++" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,supabase" />
 </p>
 
 ### ☁️ DevOps & Deployment
