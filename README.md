@@ -24,12 +24,12 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,C,C++" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb,postgres,redis" />
 </p>
 
 ### ☁️ DevOps & Deployment
@@ -39,7 +39,7 @@
 
 ### 🔧 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,figma,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,figma" />
 </p>
 
 ### 📚 Currently Learning / Exploring
@@ -48,27 +48,11 @@
 </p>
 
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-tri&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-tri&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-tri&theme=radical" />
-</p>
-
-
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
-  </a>
-
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 </p>
 
 ---
