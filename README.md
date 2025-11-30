@@ -1,12 +1,19 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="./profile-anim.svg" width="900" />
+</p>
+
 <h1 align="center">Hi 👋, I'm M_Trí</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 Mình là **Backend Node.js Developer**, nhưng cũng cực kỳ mê Frontend  
-- 🌱 Hiện tại mình đang nâng cấp skill với **Vue.js**, **Java Spring Boot**, **Docker**  
-- 🎯 Mục tiêu: trở thành Full-Stack Developer chuyên nghiệp  
+- 💻 Backend Node.js Developer nhưng cũng rất thích Frontend  
+- ⚡ Kinh nghiệm với: Vue.js, TailwindCSS, Node.js, Express, Java Spring  
+- 🗄️ Làm việc được với MongoDB & MySQL  
+- 🛠️ Thành thạo Postman & Docker  
+- 🎯 Mục tiêu: Trở thành Full-Stack Developer chuyên nghiệp  
 
 ---
 
