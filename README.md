@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="./profile-anim.svg" width="900" />
+  <img src="./intro-git.gif" width="900" />
 </p>
 
 <h1 align="center">Hi 👋, I'm M_Trí</h1>
