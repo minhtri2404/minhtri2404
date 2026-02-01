@@ -19,32 +19,32 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,vite,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,vite,bootstrap." />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring." />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb." />
 </p>
 
-### ☁️ DevOps & Deployment
+### ☁️ Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,heroku,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,render,heroku,vercel." />
 </p>
 
 ### 🔧 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,figma" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab." />
 </p>
 
 ### 📚 Currently Learning / Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,graphql,prisma,go" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redis,graphql,prisma,nestjs." />
 </p>
 
 
@@ -57,4 +57,6 @@
 
 ---
 
-⭐️ **Feel free to explore my repositories & give a star if you like my work!**
+<p  align="center"> 
+  ⭐️ **Feel free to explore my repositories & give a star if you like my work!** 
+</p>
