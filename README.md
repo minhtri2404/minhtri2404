@@ -48,12 +48,6 @@
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-tri&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-tri&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-tri&theme=radical" />
-</p>
 
 ---
 
