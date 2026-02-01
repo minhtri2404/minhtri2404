@@ -19,32 +19,32 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,vite,bootstrap." />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,vite,bootstrap" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring." />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb." />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ☁️ Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,render,heroku,vercel." />
+  <img src="https://skillicons.dev/icons?i=docker,render,heroku,vercel" />
 </p>
 
 ### 🔧 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab." />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab" />
 </p>
 
 ### 📚 Currently Learning / Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redis,graphql,prisma,nestjs." />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redis,graphql,prisma,nestjs" />
 </p>
 
 
