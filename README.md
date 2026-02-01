@@ -34,7 +34,8 @@
 
 ### ☁️ Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,render,heroku,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,heroku,vercel" />
+  <img src="https://cdn.simpleicons.org/render" height="40"/>
 </p>
 
 ### 🔧 Tools & Others
